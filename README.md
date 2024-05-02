@@ -5,7 +5,7 @@ Check out my personal website to learn more about me and my work! 🌟 On my sit
 Whether you're a potential employer, colleague, or just curious about what I do, my website is the perfect place to get to know me better. So why not take a look and see what I have to offer? 
 I'm always looking for new opportunities and connections, so don't hesitate to reach out if you're interested in working together! 🚀
 
-Website Link- garvkadia-resume-website.netlify.app
+Website Link- https://garvkadia-resume-website.netlify.app
 
 #PersonalWebsite #Portfolio 
 #Skills #Experience 
